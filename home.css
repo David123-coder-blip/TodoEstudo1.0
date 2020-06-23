@@ -1,0 +1,72 @@
+header {
+    height: 630px;
+    background-color: rgb(9, 70, 149);
+    background-size: 1400px;
+}
+
+li#inicio {
+    background-color: black;
+}
+
+img#logo-principal {
+    margin-left: 300px;
+    margin-top: 90px;
+
+    width: 730px;
+}
+
+ul#indices-inicio {
+    list-style-type: square;
+}
+
+div.block {
+    display: flex;
+    margin-left: 40px;
+    margin: 30px 0 30px;
+}
+
+div.block img {
+    width: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div.block div {
+    width: 600px;
+    text-align: justify;
+}
+
+div#novidades button {
+    width: 600px;
+    height: 30px;
+
+    background-color: rgb(197, 15, 15);
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+h1#sec1 {
+    background-color: red;
+    text-align: center;
+    height: 80px;
+    padding-top: 25px;
+    
+    font-size: 40px;
+
+    color: white;
+}
+
+section#dessite {
+    background-color: red;
+    width: 1347px;
+    height: 700px;
+    text-align: center;
+}
+
+section#dessite img {
+    width: 600px;
+}

@@ -1,0 +1,10 @@
+header {
+    background: url('/images/Feedback.jpeg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 430px;
+}
+
+#feedback {
+    background-color: black;
+}
